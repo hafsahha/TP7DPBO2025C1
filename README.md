@@ -100,6 +100,9 @@ Struktur folder glowgether:
 ├── config/
 │   └── db.php
 │
+├── database/
+│   └── glowgether.sql
+│
 ├── view/
 │   ├── header.php
 │   ├── footer.php
